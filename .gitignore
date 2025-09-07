@@ -1,0 +1,16 @@
+# Node modules
+Backend/node_modules/
+Frontend/node_modules/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment files
+*.env
+
+# React build output
+Frontend/build/
